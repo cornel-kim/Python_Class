@@ -10,3 +10,7 @@ while x < 100:#condition has array of items from 0 to 9(0, 1, 2,3, 4, 5, 6, 7, 8
     x = x + 10
 
 # for loop
+#questions
+
+#Display numbers from -20 to 4 using loops
+#print element 45 and 50 from this list [2, 34, 67, 45, 50, 87, 32]

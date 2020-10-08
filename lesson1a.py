@@ -18,6 +18,10 @@ print("a <= b", a <= b)
 print("a == b", a == b)
 print("a != b", a != b)
 
+
+x = 2
+evenNo = x + 2
+print("even number", evenNo)
 # z = x + w
 # #print function will calculate the sum
 # print(z)
@@ -25,6 +29,7 @@ print("a != b", a != b)
 #
 # mathematics = 60.0
 # english = 40.0
+
 # Kiswahili = 50.0
 # total_marks = mathematics + english + Kiswahili
 # print("Your total marks is equals to:", total_marks)
